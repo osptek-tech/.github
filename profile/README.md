@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/osptek_icon.png" alt="Osptek Display" width="160">
+<img src="assets/top_table.png" alt="Osptek — Display solutions for a smarter future" width="100%">
 
 # Osptek Display · 鱼鹰科技
 
