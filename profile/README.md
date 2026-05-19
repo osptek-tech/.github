@@ -2,37 +2,24 @@
 
 <img src="assets/top_table.png" alt="Osptek — Display solutions for a smarter future" width="100%">
 
-# Osptek Display · 鱼鹰科技
+# Osptek Display
 
-**深圳显示模组供应商 — LCD · TFT · OLED · 方案定制**
+*Display solutions for a smarter future*
 
 </div>
 
 ---
 
-## 我们的承诺
+Osptek Display is the display division of Shenzhen Osptek Optoelectronics Technology Co., Ltd. We design and supply display modules and tailored display solutions for industrial, medical, consumer, and instrumentation applications.
 
-**10 年显示屏生产与方案经验**
+Our portfolio spans AMOLED and TFT panels, reflective monochrome displays, and modules with SPI, QSPI, MIPI, RGB, and other mainstream interfaces. Specifications and project inquiries are available on our website.
 
-我们是深圳的一家 **LCD、TFT、OLED** 显示模组供应商，可提供 **显示屏方案定制** 服务。
-
-十多年来，我们为 **医疗、工业、消费、手持设备、测试与测量** 等不同行业的客户提供高质量的产品、服务及定制设计解决方案，建立了良好的行业声誉。
-
-作为数字显示行业值得信赖的合作伙伴之一，**Osptek Display** 持续提升制造能力、夯实技术积累，紧跟并掌握前沿显示技术，与客户共同成长。
-
-**服务理念：迅速响应，倾情服务，为您缩短定制设计周期。** 以专业能力与技术支持，助您产品顺利落地。
+<p align="center">
+  <a href="https://osptek.com/"><strong>osptek.com</strong></a>
+</p>
 
 ---
 
-## 产品与能力
-
-| 方向 | 说明 |
-|:--|:--|
-| 显示类型 | LCD、TFT 彩屏、OLED / AMOLED、全反射单色屏等 |
-| 接口与形态 | SPI、QSPI、MIPI、RGB 等；多尺寸、多分辨率模组 |
-| 方案定制 | 选型建议、驱动适配、结构配合与项目级技术支持 |
-| 应用行业 | 医疗、工业、消费电子、手持终端、仪器仪表等 |
-
----
-
-*深圳市鱼鹰光电科技有限公司 · Osptek Display*
+<p align="center">
+  <sub>Shenzhen Osptek Optoelectronics Technology Co., Ltd.</sub>
+</p>
